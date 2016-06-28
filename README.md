@@ -16,6 +16,11 @@ The files are stored in a directory structure under the `csv` directory.
 You will find there a `Daily` and `Weekly` directory with the table
 directories directly under them.
 
+There is a `Sample` directory which holds a single file of each data file type
+from the original data downloaded from the AFR. The files in the `csv` directory
+have been conditioned for database or spreadsheet import. The sample files are
+here just for a reference.
+
 The filenames are descriptive so each file can stand alone out of its
 directory structure. The file naming standard is as following;
 
